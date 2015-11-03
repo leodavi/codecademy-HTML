@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<head>
+    <style>
+    body {
+        text-align: center;
+    background: url("https://lh5.googleusercontent.com/-pqfXDkqgSl4/VjeNCd69UgI/AAAAAAAAAOY/ZaahmisIPFA/w769-h577-no/IMG_1792.JPG");
+    color: white;
+    font-family: Helvetica;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+    h1 {
+        color: red;
+    }
+     h1 {
+        color: blue;
+    }
+    p {
+        font-size: 24px;
+    }
+    input {
+        border: 0;
+        padding: 18px;
+        font-size: 18px;
+    }
+    input[type="submit"] {
+        background: limegreen;
+        color: black;
+        font-size: 18px
+    }
+    </style>
+</head>
+
+<body>
+<img src="http://www.catawbacountync.gov/SoilWater/_images/SoilHands.jpg" height="160" width="280
+">
+<h3>Brother Gary's Seaweed Special</h3>
+<h6>from the maker of</h6>
+<h3>The Idiot Hat</h3>
+<p>Fresh Organic Buzzwords straight from the ocean, dried into a tasty treat for your flo or favorite rf. Order TODAY!!
+</p>
+<input type="email" placeholder="Your Email Here">
+<input type="submit">
+
+<h1>Lobster</h1>
+<h2>Lobster</h2>
+<h3>Lobster</h3>
+<h4>Lobster</h4>
+<h5>Lobster</h5>
+<h6>Lobster</h6>
+
+</body>
+
