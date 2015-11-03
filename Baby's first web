@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+    <style>
+    body {text-align: center;
+    background: url("https://lh5.googleusercontent.com/-pqfXDkqgSl4/VjeNCd69UgI/AAAAAAAAAOY/ZaahmisIPFA/w769-h577-no/IMG_1792.JPG");
+    color: white;
+    font-family: Helvetica;
+    }
+    </style>
+</head>
+
+<body>
+<img src="https://lh3.googleusercontent.com/-JnCxw73jt68/VjeIIKVGuFI/AAAAAAAAANo/-oS3IB_Zf8U/w433-h577-no/IMG_1500.JPG" height="409" width="307">
+<h3>Jennifer Emilie Smith</h3>
+<h6>human, known for being</h6>
+<h3>Friendly, Happy, Open Minded, Brave
+<p>Greetings from Zurich! I'm sitting in my office in a penthouse. Russ is at work, and I'm enjoying the week to do something just for me, coding! Hopefully Betsy and Steffen can join us for drinks and heisse maroni later in the evening. Tell me more about you and enter your email below.</p>
+<input type="email" placeholder="Email">
+<input type="submit">
+</body>
