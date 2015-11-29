@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	    <thead>
+	    <th colspan="3">Woof Woof</th>
+	    </thead>
+	    <tbody>
+	        <tr></tr>
+	            <td><img src="http://1.1.1.4/bmi/cdn.akc.org/akcdoglovers/finnishSpitzThumb.jpg"/></td>
+	            <td><img src="http://1.1.1.1/bmi/cdn.akc.org/LabradorRetThumb.jpg"/></td>
+	            <td><img src="http://1.1.1.3/bmi/cdn.akc.org/AmericanWaterSpanThumb.jpg"/></td>
+            <tr></tr>
+	            <td><img src="http://1.1.1.5/bmi/cdn.akc.org/ausShepherdThumb.jpg"/></td>
+	            <td><img src="http://1.1.1.2/bmi/cdn.akc.org/akcdoglovers/azawakh.jpg"/></td>
+	            <td><img src="http://1.1.1.5/bmi/cdn.akc.org/akcdoglovers/redboneThumb.jpg"/></td>
+            <tr></tr>
+	            <td><img src="http://1.1.1.2/bmi/cdn.akc.org/akcdoglovers/GerShorthairedPointerThumb.jpg"/></td>
+	            <td><img src="http://1.1.1.1/bmi/cdn.akc.org/akcdoglovers/giantSchnauzerThumb.jpg"/></td>
+	            <td><img src="http://1.1.1.5/bmi/cdn.akc.org/akcdoglovers/rottweilerThumb.jpg"/></td>
+    </tbody>
+    </body>
+</html>
