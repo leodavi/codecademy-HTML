@@ -11,17 +11,17 @@
 	    </thead>
 	    <tbody>
 	        <tr></tr>
-	            <td><img src="http://1.1.1.4/bmi/cdn.akc.org/akcdoglovers/finnishSpitzThumb.jpg"/></td>
-	            <td><img src="http://1.1.1.1/bmi/cdn.akc.org/LabradorRetThumb.jpg"/></td>
-	            <td><img src="http://1.1.1.3/bmi/cdn.akc.org/AmericanWaterSpanThumb.jpg"/></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.4/bmi/cdn.akc.org/akcdoglovers/finnishSpitzThumb.jpg"/></a></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.1/bmi/cdn.akc.org/LabradorRetThumb.jpg"/></a></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.3/bmi/cdn.akc.org/AmericanWaterSpanThumb.jpg"/></a></td>
             <tr></tr>
-	            <td><img src="http://1.1.1.5/bmi/cdn.akc.org/ausShepherdThumb.jpg"/></td>
-	            <td><img src="http://1.1.1.2/bmi/cdn.akc.org/akcdoglovers/azawakh.jpg"/></td>
-	            <td><img src="http://1.1.1.5/bmi/cdn.akc.org/akcdoglovers/redboneThumb.jpg"/></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.5/bmi/cdn.akc.org/ausShepherdThumb.jpg"/></a></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.2/bmi/cdn.akc.org/akcdoglovers/azawakh.jpg"/></a></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.5/bmi/cdn.akc.org/akcdoglovers/redboneThumb.jpg"/></a></td>
             <tr></tr>
-	            <td><img src="http://1.1.1.2/bmi/cdn.akc.org/akcdoglovers/GerShorthairedPointerThumb.jpg"/></td>
-	            <td><img src="http://1.1.1.1/bmi/cdn.akc.org/akcdoglovers/giantSchnauzerThumb.jpg"/></td>
-	            <td><img src="http://1.1.1.5/bmi/cdn.akc.org/akcdoglovers/rottweilerThumb.jpg"/></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.2/bmi/cdn.akc.org/akcdoglovers/GerShorthairedPointerThumb.jpg"/></a></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.1/bmi/cdn.akc.org/akcdoglovers/giantSchnauzerThumb.jpg"/></a></td>
+	            <td><a href="http://www.akc.org/"><img src="http://1.1.1.5/bmi/cdn.akc.org/akcdoglovers/rottweilerThumb.jpg"/></a></td>
     </tbody>
     </body>
 </html>
